@@ -40,7 +40,10 @@ The flow is simple:
 ## 🎮 Example Screenshots  
 Here’s what is look:  
 
-![Example](img/example.png)  
+<p align="center">
+  <img src="img/Example1.png" alt="Example1" width="45%"/>
+  <img src="img/Example2.png" alt="Example2" width="45%"/>
+</p>
 
 ---
 
@@ -54,6 +57,8 @@ Here’s what is look:
 │
 ├── Part Arduino Nano/
 │   └── main.cpp                       # Arduino code for motor + LED control
+│
+├── Part Arduino Nano/                 # Images for the README
 │
 ├── LICENSE
 └── README.md
