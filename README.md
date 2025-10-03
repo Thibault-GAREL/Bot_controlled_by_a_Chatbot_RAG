@@ -38,12 +38,14 @@ The flow is simple:
 ---
 
 ## 🎮 Example Screenshots  
-Here’s what is look:  
+Here’s what is look: (Sorry for the bad quality, I have an old phone. Now, I reuse the componants for other projects 😉)  
 
 <p align="center">
   <img src="img/Example1.png" alt="Example1" width="45%"/>
   <img src="img/Example2.png" alt="Example2" width="45%"/>
 </p>
+
+The white thing is the **battery** (Normaly for a phone but here, it's for the Raspberry and the Arduino).
 
 ---
 
