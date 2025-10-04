@@ -73,3 +73,5 @@ The white thing is the **battery** (Normaly for a phone but here, it's for the R
 After **receiving a raspberry**, I started thinking about using it with my **AI passion**! I also wanted to apply AI in real life.
 
 😆 100% coded by myself, no tutorials (just for the purpose of simplifying how to use a Raspberry Pi 4 and connect it to my PC).
+
+Code created by me 😎, Thibault GAREL - [Github](https://github.com/Thibault-GAREL)
