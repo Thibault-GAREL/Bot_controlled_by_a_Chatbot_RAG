@@ -7,6 +7,10 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)  
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)  
 
+<p align="center">
+  <img src="img/Gif-bot.gif" alt="logo">
+</p>
+
 ## 📝 Project Description  
 This project is a **two-wheel robot**🛞🛞 controlled by a **chatbot interface**🤖💬.  
 The flow is simple:  
